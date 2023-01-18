@@ -7,3 +7,6 @@ i)   Dijkstra's Algorithm
 ii)  Prims's Algorithm
 
 iii) Kruskal's Algorithm
+
+I have chosen C++ beacause it has many in-built function and data structures like priority queue,stacks,etc.
+It would be easier to implement graphs in C++.
